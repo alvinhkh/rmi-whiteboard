@@ -9,6 +9,8 @@
 - Specifying type of graphical object (circle, triangle or square), colour, size, and position
 - Server callback, to notice client to update whiteboard (WhiteboardCallback)
 
+![Screenshot](/screenshot.png?raw=true "Java RMI Whiteboard")
+
 ###### Client Graphical Interface
  * Enter IP Address and Port number
  * Draw object using mouse dragging
