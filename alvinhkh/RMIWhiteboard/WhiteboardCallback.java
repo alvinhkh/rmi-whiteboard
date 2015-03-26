@@ -1,0 +1,1 @@
+/*  * Java RMI Whiteboard * CM3202 Mini-project * * 1265987 */package alvinhkh.RMIWhiteboard;import java.rmi.*;public interface WhiteboardCallback extends Remote {    void callback(int version) throws RemoteException;}

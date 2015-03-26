@@ -1,0 +1,1 @@
+/*  * Java RMI Whiteboard * CM3202 Mini-project * * 1265987 */package alvinhkh.RMIWhiteboard;import java.rmi.*;import java.util.Vector;public interface Shape extends Remote {   int getVersion() throws RemoteException;   GraphicalObject getAllState() throws RemoteException;}
